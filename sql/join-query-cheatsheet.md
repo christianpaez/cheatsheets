@@ -1,3 +1,5 @@
+# The Ultimate SQL JOIN Cheat Sheet
+
 If you're working with relational databases, you'll often need to combine data from multiple tables. SQL `JOINs` help you achieve this.
 
 ### Understanding INNER JOIN
